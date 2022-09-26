@@ -13,12 +13,12 @@
     1. [Basisontwerp](#basisontwerp)
     2. [Bonusontwerp](#bonusontwerp)
 10. [Bijlage](#bijlage)
-     1. [CSS structuur](#voorbeeld-css-structuur)
-     2. [Dummy tekst](#dummy-tekst)
+    1. [CSS structuur](#voorbeeld-css-structuur)
+    2. [Dummy tekst](#dummy-tekst)
 
 ## Inleiding
 
-Het is tijd om jouw CSS-skills in de praktijk te brengen: je gaat de home-pagina van een bekend bedrijf ontwikkelen. De
+Het is tijd om joguw CSS-skills in de praktijk te brengen: je gaat de home-pagina van een bekend bedrijf ontwikkelen. De
 designers van dit bedrijf hebben, naar aanleiding van hun huisstijl, alle schermontwerpen al helemaal uitgedacht. Het
 enige wat jij als aanstormende web developer hoeft te doen, is daar een werkende versie van te maken! Je kunt de
 desktop- en mobiele designs [hier](#schermontwerpen) bekijken.
@@ -41,7 +41,7 @@ EdHub (Hfst. 9).
 Je gaat het ontwerp van deze webpagina zo gedetailleerd mogelijk namaken. Alle afbeeldingen en icoontjes die
 worden gebruikt in de designs, zijn aangeleverd in de `assets`-map van deze repository.
 
-In plaats van deze opdracht te clonen, maak je voor dit project een **eigen** project aan, _from scratch_! 
+In plaats van deze opdracht te clonen, maak je voor dit project een **eigen** project aan, _from scratch_!
 Wanneer je aan een nieuw project gaat beginnen, maak je eerst een goede basis. Anders wordt jouw code al snel een
 rommeltje. Zorg daarom dat je onderstaande checklist afwerkt.
 
@@ -49,7 +49,7 @@ rommeltje. Zorg daarom dat je onderstaande checklist afwerkt.
 
 - [ ] Maak een eigen project aan. Maak in het project alle benodigde bestanden aan, zoals een `index.html`, `styles.css`
   , `.gitignore`, een `README.md`.
-- [ ] Download de afbeeldingen uit deze repository. Maak een map `assets` aan en zet alle afbeeldingen hierin. 
+- [ ] Download de afbeeldingen uit deze repository. Maak een map `assets` aan en zet alle afbeeldingen hierin.
 - [ ] Zet alvast een structuur klaar in commentaar in jouw CSS-bestand. Je kunt [deze structuur](#voorbeeld-css-structuur)
   gebruiken, maar voel je vrij om een eigen structuur te bedenken.
 - [ ] Maak een repository aan op www.GitHub.com voor jouw project.
